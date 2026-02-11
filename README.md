@@ -8,7 +8,7 @@ This repository hosts the open-sourced resource corresponding to our article: A 
 
 🚧 This project is under active development.
 
-# Example snippet of our neural recordings, along with the software configuration used to synthesize the 1024-channel dataset.
+# Neural_signal_recording
 
 1024-channel neural dataset can be generated based on the MEArec tool with the following script:
 
